@@ -1,4 +1,4 @@
-# 🎵 Ritmo Vivo - Sitio Web de Música
+# 🎵 Sitio Web de Música
 
 Este es un proyecto web desarrollado en HTML puro.
 
